@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: Monitoring of cristal production
+- project: Monitoring of crystal production
   role: Developer
   duration: 2014 &mdash; Present
   # url: "https://github.com/probot/probot"
-  description: The application is has been developed on the platform ASP.NET MVC 4 C#
+  description: Developer of monitoring system for crystal production on the platform ASP.NET MVC 4 C#
 
 # GitHub Classroom
 - project: Monitoring of asembler production
   role: Developer
   duration: 2019 &mdash; Present
   # url: "https://github.com/education/classroom"
-  description: The aplication is developed on the platform ASP.NET MVC4 C#
+  description: Developer of monitoring system for asembler production on the platform ASP.NET MVC 4 C#
