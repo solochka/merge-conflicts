@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: Monitoring jf cristal production
+- project: Monitoring of cristal production
   role: Developer
   duration: 2014 &mdash; Present
   # url: "https://github.com/probot/probot"
